@@ -1,0 +1,5 @@
+localhost ansible_user=mars
+
+[VMBOX_GUI]
+172.16.129.146 ansible_user=venus
+172.16.129.180 ansible_user=sun
