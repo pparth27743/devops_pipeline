@@ -7,9 +7,9 @@
         name: pparth27743/hello_world
         source: pull
     - name: Create default containers
-        docker_container:
-          name: Run Container
-          image: pparth27743/hello_world
-          state: present
-        with_sequence: count= 2
+      docker_container:
+        name: Run Container
+        image: pparth27743/hello_world
+        state: present
+      with_sequence: count= 2
 
