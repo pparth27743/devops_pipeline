@@ -11,5 +11,5 @@
         name: c1
         image: pparth27743/hello_world
         state: present
-      with_sequence: count= 2
+
 
