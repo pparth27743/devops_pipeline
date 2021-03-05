@@ -1,8 +1,0 @@
----
-- name: Pull docker image of spe-calculator-demo
-  hosts: all
-  tasks:
-    - name: Pull spe-calculator-demo
-      docker_image:
-        name: pparth27743/spe-calculator-demo
-        source: pull
