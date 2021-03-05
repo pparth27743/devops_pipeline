@@ -8,7 +8,7 @@
         source: pull
     - name: Create default containers
       docker_container:
-        name: Run Container
+        name: c1
         image: pparth27743/hello_world
         state: present
       with_sequence: count= 2
