@@ -1,0 +1,49 @@
+pipeline {
+
+    environment {
+        registryCredential = 'dockerhub_id'
+        dockerImage = ''
+    }
+
+    agent any
+
+    stages {
+        stage('Git pull') {
+            steps {
+                git 'https://github.com/pparth27743/devops_pipeline.git'
+            }
+        }
+
+        stage('Maven Build'){
+            steps{
+                sh 'mvn clean install'
+            }
+        }
+
+        stage('Building our image') {
+            steps {
+                script {
+                    dockerImage = docker.build 'pparth27743/hello_world:latest'
+                }
+            }
+        }
+
+        stage('Deploy our image') {
+            steps {
+                script {
+                    docker.withRegistry( '', registryCredential ) {
+                        dockerImage.push()
+                    }
+                }
+            }
+        }
+
+        stage('Deploy with ansible') {
+            steps {
+                ansiblePlaybook becomeUser: null, colorized: true, disableHostKeyChecking: true, installation: 'Ansible', inventory: 'inventory', playbook: 'deploy.yml', sudoUser: null
+            }
+        }
+
+    }
+
+}
