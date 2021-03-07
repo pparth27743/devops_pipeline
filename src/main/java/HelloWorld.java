@@ -13,17 +13,18 @@ public class HelloWorld {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Welcome to Mini Calculator... \nChoose one of the Following operation.");
-        System.out.println("Press 1 for Square Root");
-        System.out.println("Press 2 for Factorial");
-        System.out.println("Press 3 for Natural logarithm");
-        System.out.println("Press 4 for Power function");
-        System.out.println("Press 0 to Exit");
-
         int choice, num;
         double ans;
 
         do {
+
+            System.out.println("Welcome to Mini Calculator... \nChoose one of the Following operation.");
+            System.out.println("Press 1 for Square Root");
+            System.out.println("Press 2 for Factorial");
+            System.out.println("Press 3 for Natural logarithm");
+            System.out.println("Press 4 for Power function");
+            System.out.println("Press 0 to Exit");
+
             choice = sc.nextInt();
 
             switch (choice) {
@@ -47,6 +48,7 @@ public class HelloWorld {
                     for(int i=2; i<=num; i++) {
                         sum = sum * i;
                     }
+                    printAns(sum);
                     break;
 
                 case 3:
