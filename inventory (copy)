@@ -1,0 +1,12 @@
+localhost ansible_user=parth
+
+localhost ansible_user=pp
+
+
+[mars]
+172.16.129.27 ansible_user=mars
+
+[earth]
+172.16.129.112 ansible_user=earth
+
+
