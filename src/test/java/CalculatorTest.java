@@ -2,8 +2,9 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class CalculatorTest {
-    private static final double DELTA = 1e-9;
+
     Calculator calculator = new Calculator();
+    private static final double DELTA = 1e-9;
 
     @Test
     public void squareRoot_True(){
