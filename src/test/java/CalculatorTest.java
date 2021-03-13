@@ -1,7 +1,7 @@
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-public class CalcTest {
+public class CalculatorTest {
     private static final double DELTA = 1e-9;
     Calculator calculator = new Calculator();
 
