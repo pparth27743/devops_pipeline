@@ -44,3 +44,215 @@
 2021-03-12 22:54:32.131 [main] INFO  Calculator - Result of power is : 4.0
 2021-03-12 22:54:32.132 [main] INFO  Calculator - Calculating Power  of two numbers 3.0 and 3.0
 2021-03-12 22:54:32.132 [main] INFO  Calculator - Result of power is : 27.0
+2021-03-13 11:16:50.740 [main] INFO  Calculator - Let's calculate factorial of 3.0
+2021-03-13 11:16:50.743 [main] INFO  Calculator - Result : 6.0
+2021-03-13 11:16:50.743 [main] INFO  Calculator - Let's calculate factorial of 5.0
+2021-03-13 11:16:50.744 [main] INFO  Calculator - Result : 120.0
+2021-03-13 11:16:50.744 [main] INFO  Calculator - Let's calculate factorial of -5.0
+2021-03-13 11:16:50.745 [main] ERROR Calculator - Error : Given Number is negative so can't find factorial.
+2021-03-13 11:16:50.745 [main] INFO  Calculator - Result : NaN
+2021-03-13 11:16:50.747 [main] INFO  Calculator - Let's calculate square root of 9.0
+2021-03-13 11:16:50.747 [main] INFO  Calculator - Result : 3.0
+2021-03-13 11:16:50.747 [main] INFO  Calculator - Let's calculate square root of 16.0
+2021-03-13 11:16:50.748 [main] INFO  Calculator - Result : 4.0
+2021-03-13 11:16:50.748 [main] INFO  Calculator - Let's calculate square root of -10.0
+2021-03-13 11:16:50.749 [main] ERROR Calculator - Number should not be negative Given Number is negative so can't find Square Root.
+2021-03-13 11:16:50.749 [main] INFO  Calculator - Result : NaN
+2021-03-13 11:16:50.750 [main] INFO  Calculator - Let's calculate natural log of 17.0
+2021-03-13 11:16:50.750 [main] INFO  Calculator - Result : 2.833213344056216
+2021-03-13 11:16:50.751 [main] INFO  Calculator - Let's calculate natural log of 6.0
+2021-03-13 11:16:50.751 [main] INFO  Calculator - Result : 1.791759469228055
+2021-03-13 11:16:50.751 [main] INFO  Calculator - Let's calculate natural log of 0.0
+2021-03-13 11:16:50.752 [main] ERROR Calculator - Number should be positive only : Number should be > 0
+2021-03-13 11:16:50.752 [main] INFO  Calculator - Result : NaN
+2021-03-13 11:16:50.756 [main] INFO  Calculator - Let's calculate square root of 18.0
+2021-03-13 11:16:50.756 [main] INFO  Calculator - Result : 4.242640687119285
+2021-03-13 11:16:50.757 [main] INFO  Calculator - Let's calculate square root of 32.0
+2021-03-13 11:16:50.758 [main] INFO  Calculator - Result : 5.656854249492381
+2021-03-13 11:16:50.758 [main] INFO  Calculator - Let's calculate square root of -16.0
+2021-03-13 11:16:50.759 [main] ERROR Calculator - Number should not be negative Given Number is negative so can't find Square Root.
+2021-03-13 11:16:50.760 [main] INFO  Calculator - Result : NaN
+2021-03-13 11:16:50.763 [main] INFO  Calculator - Let's calculate natural log of 14.0
+2021-03-13 11:16:50.765 [main] INFO  Calculator - Result : 2.6390573296152584
+2021-03-13 11:16:50.765 [main] INFO  Calculator - Let's calculate natural log of 9.0
+2021-03-13 11:16:50.766 [main] INFO  Calculator - Result : 2.1972245773362196
+2021-03-13 11:16:50.770 [main] INFO  Calculator - Let's calculate natural log of 0.0
+2021-03-13 11:16:50.772 [main] ERROR Calculator - Number should be positive only : Number should be > 0
+2021-03-13 11:16:50.774 [main] INFO  Calculator - Result : NaN
+2021-03-13 11:16:50.775 [main] INFO  Calculator - Let's calculate factorial of 3.0
+2021-03-13 11:16:50.776 [main] INFO  Calculator - Result : 6.0
+2021-03-13 11:16:50.778 [main] INFO  Calculator - Let's calculate factorial of 5.0
+2021-03-13 11:16:50.779 [main] INFO  Calculator - Result : 120.0
+2021-03-13 11:16:50.782 [main] INFO  Calculator - Let's calculate factorial of -1.0
+2021-03-13 11:16:50.783 [main] ERROR Calculator - Error : Given Number is negative so can't find factorial.
+2021-03-13 11:16:50.784 [main] INFO  Calculator - Result : NaN
+2021-03-13 11:16:50.790 [main] INFO  Calculator - Let's calculate factorial of 2.5
+2021-03-13 11:16:50.790 [main] ERROR Calculator - Error : Given Number is factional so can't find factorial.
+2021-03-13 11:16:50.791 [main] INFO  Calculator - Result : NaN
+2021-03-13 11:16:50.791 [main] INFO  Calculator - Let's calculate 2.0to the power 3.0
+2021-03-13 11:16:50.792 [main] INFO  Calculator - Result : 8.0
+2021-03-13 11:16:50.792 [main] INFO  Calculator - Let's calculate 3.0to the power 3.0
+2021-03-13 11:16:50.792 [main] INFO  Calculator - Result : 27.0
+2021-03-13 11:16:50.810 [main] INFO  Calculator - Let's calculate 2.0to the power 2.0
+2021-03-13 11:16:50.811 [main] INFO  Calculator - Result : 4.0
+2021-03-13 11:16:50.813 [main] INFO  Calculator - Let's calculate 3.0to the power 3.0
+2021-03-13 11:16:50.814 [main] INFO  Calculator - Result : 27.0
+2021-03-13 11:22:38.295 [main] INFO  Calculator - Let's calculate factorial of 3.0
+2021-03-13 11:22:38.298 [main] INFO  Calculator - Result : 6.0
+2021-03-13 11:22:38.299 [main] INFO  Calculator - Let's calculate factorial of 5.0
+2021-03-13 11:22:38.300 [main] INFO  Calculator - Result : 120.0
+2021-03-13 11:22:38.300 [main] INFO  Calculator - Let's calculate factorial of -5.0
+2021-03-13 11:22:38.301 [main] ERROR Calculator - Error : Given Number is negative so can't find factorial.
+2021-03-13 11:22:38.302 [main] INFO  Calculator - Result : NaN
+2021-03-13 11:22:38.304 [main] INFO  Calculator - Let's calculate square root of 9.0
+2021-03-13 11:22:38.304 [main] INFO  Calculator - Result : 3.0
+2021-03-13 11:22:38.305 [main] INFO  Calculator - Let's calculate square root of 16.0
+2021-03-13 11:22:38.305 [main] INFO  Calculator - Result : 4.0
+2021-03-13 11:22:38.306 [main] INFO  Calculator - Let's calculate square root of -10.0
+2021-03-13 11:22:38.306 [main] ERROR Calculator - Number should not be negative : Given Number is negative so can't find Square Root.
+2021-03-13 11:22:38.307 [main] INFO  Calculator - Result : NaN
+2021-03-13 11:22:38.310 [main] INFO  Calculator - Let's calculate natural log of 17.0
+2021-03-13 11:22:38.312 [main] INFO  Calculator - Result : 2.833213344056216
+2021-03-13 11:22:38.315 [main] INFO  Calculator - Let's calculate natural log of 6.0
+2021-03-13 11:22:38.316 [main] INFO  Calculator - Result : 1.791759469228055
+2021-03-13 11:22:38.318 [main] INFO  Calculator - Let's calculate natural log of 0.0
+2021-03-13 11:22:38.319 [main] ERROR Calculator - Number should be positive only : Number should be > 0
+2021-03-13 11:22:38.320 [main] INFO  Calculator - Result : NaN
+2021-03-13 11:22:38.322 [main] INFO  Calculator - Let's calculate square root of 18.0
+2021-03-13 11:22:38.323 [main] INFO  Calculator - Result : 4.242640687119285
+2021-03-13 11:22:38.323 [main] INFO  Calculator - Let's calculate square root of 32.0
+2021-03-13 11:22:38.324 [main] INFO  Calculator - Result : 5.656854249492381
+2021-03-13 11:22:38.324 [main] INFO  Calculator - Let's calculate square root of -16.0
+2021-03-13 11:22:38.325 [main] ERROR Calculator - Number should not be negative : Given Number is negative so can't find Square Root.
+2021-03-13 11:22:38.325 [main] INFO  Calculator - Result : NaN
+2021-03-13 11:22:38.335 [main] INFO  Calculator - Let's calculate natural log of 14.0
+2021-03-13 11:22:38.336 [main] INFO  Calculator - Result : 2.6390573296152584
+2021-03-13 11:22:38.341 [main] INFO  Calculator - Let's calculate natural log of 9.0
+2021-03-13 11:22:38.343 [main] INFO  Calculator - Result : 2.1972245773362196
+2021-03-13 11:22:38.350 [main] INFO  Calculator - Let's calculate natural log of 0.0
+2021-03-13 11:22:38.353 [main] ERROR Calculator - Number should be positive only : Number should be > 0
+2021-03-13 11:22:38.354 [main] INFO  Calculator - Result : NaN
+2021-03-13 11:22:38.361 [main] INFO  Calculator - Let's calculate factorial of 3.0
+2021-03-13 11:22:38.365 [main] INFO  Calculator - Result : 6.0
+2021-03-13 11:22:38.368 [main] INFO  Calculator - Let's calculate factorial of 5.0
+2021-03-13 11:22:38.369 [main] INFO  Calculator - Result : 120.0
+2021-03-13 11:22:38.370 [main] INFO  Calculator - Let's calculate factorial of -1.0
+2021-03-13 11:22:38.371 [main] ERROR Calculator - Error : Given Number is negative so can't find factorial.
+2021-03-13 11:22:38.372 [main] INFO  Calculator - Result : NaN
+2021-03-13 11:22:38.372 [main] INFO  Calculator - Let's calculate factorial of 2.5
+2021-03-13 11:22:38.374 [main] ERROR Calculator - Error : Given Number is factional so can't find factorial.
+2021-03-13 11:22:38.375 [main] INFO  Calculator - Result : NaN
+2021-03-13 11:22:38.387 [main] INFO  Calculator - Let's calculate 2.0to the power 3.0
+2021-03-13 11:22:38.390 [main] INFO  Calculator - Result : 8.0
+2021-03-13 11:22:38.401 [main] INFO  Calculator - Let's calculate 3.0to the power 3.0
+2021-03-13 11:22:38.402 [main] INFO  Calculator - Result : 27.0
+2021-03-13 11:22:38.412 [main] INFO  Calculator - Let's calculate 2.0to the power 2.0
+2021-03-13 11:22:38.423 [main] INFO  Calculator - Result : 4.0
+2021-03-13 11:22:38.426 [main] INFO  Calculator - Let's calculate 3.0to the power 3.0
+2021-03-13 11:22:38.435 [main] INFO  Calculator - Result : 27.0
+2021-03-13 11:25:03.954 [main] INFO  Calculator - Let's calculate factorial of 3.0
+2021-03-13 11:25:03.957 [main] INFO  Calculator - Result : 6.0
+2021-03-13 11:25:03.957 [main] INFO  Calculator - Let's calculate factorial of 5.0
+2021-03-13 11:25:03.958 [main] INFO  Calculator - Result : 120.0
+2021-03-13 11:25:03.958 [main] INFO  Calculator - Let's calculate factorial of -5.0
+2021-03-13 11:25:03.958 [main] ERROR Calculator - Error : Given Number is negative so can't find factorial.
+2021-03-13 11:25:03.959 [main] INFO  Calculator - Result : NaN
+2021-03-13 11:25:03.960 [main] INFO  Calculator - Let's calculate square root of 9.0
+2021-03-13 11:25:03.961 [main] INFO  Calculator - Result : 3.0
+2021-03-13 11:25:03.961 [main] INFO  Calculator - Let's calculate square root of 16.0
+2021-03-13 11:25:03.961 [main] INFO  Calculator - Result : 4.0
+2021-03-13 11:25:03.962 [main] INFO  Calculator - Let's calculate square root of -10.0
+2021-03-13 11:25:03.962 [main] ERROR Calculator - Number should not be negative : Given Number is negative so can't find Square Root.
+2021-03-13 11:25:03.963 [main] INFO  Calculator - Result : NaN
+2021-03-13 11:25:03.964 [main] INFO  Calculator - Let's calculate natural log of 17.0
+2021-03-13 11:25:03.964 [main] INFO  Calculator - Result : 2.833213344056216
+2021-03-13 11:25:03.964 [main] INFO  Calculator - Let's calculate natural log of 6.0
+2021-03-13 11:25:03.965 [main] INFO  Calculator - Result : 1.791759469228055
+2021-03-13 11:25:03.965 [main] INFO  Calculator - Let's calculate natural log of 0.0
+2021-03-13 11:25:03.966 [main] ERROR Calculator - Number should be positive only : Number should be > 0
+2021-03-13 11:25:03.966 [main] INFO  Calculator - Result : NaN
+2021-03-13 11:25:03.967 [main] INFO  Calculator - Let's calculate square root of 18.0
+2021-03-13 11:25:03.968 [main] INFO  Calculator - Result : 4.242640687119285
+2021-03-13 11:25:03.968 [main] INFO  Calculator - Let's calculate square root of 32.0
+2021-03-13 11:25:03.969 [main] INFO  Calculator - Result : 5.656854249492381
+2021-03-13 11:25:03.969 [main] INFO  Calculator - Let's calculate square root of -16.0
+2021-03-13 11:25:03.970 [main] ERROR Calculator - Number should not be negative : Given Number is negative so can't find Square Root.
+2021-03-13 11:25:03.970 [main] INFO  Calculator - Result : NaN
+2021-03-13 11:25:03.972 [main] INFO  Calculator - Let's calculate natural log of 14.0
+2021-03-13 11:25:03.973 [main] INFO  Calculator - Result : 2.6390573296152584
+2021-03-13 11:25:03.974 [main] INFO  Calculator - Let's calculate natural log of 9.0
+2021-03-13 11:25:03.975 [main] INFO  Calculator - Result : 2.1972245773362196
+2021-03-13 11:25:03.977 [main] INFO  Calculator - Let's calculate natural log of 0.0
+2021-03-13 11:25:03.977 [main] ERROR Calculator - Number should be positive only : Number should be > 0
+2021-03-13 11:25:03.977 [main] INFO  Calculator - Result : NaN
+2021-03-13 11:25:03.978 [main] INFO  Calculator - Let's calculate factorial of 3.0
+2021-03-13 11:25:03.979 [main] INFO  Calculator - Result : 6.0
+2021-03-13 11:25:03.980 [main] INFO  Calculator - Let's calculate factorial of 5.0
+2021-03-13 11:25:03.981 [main] INFO  Calculator - Result : 120.0
+2021-03-13 11:25:03.981 [main] INFO  Calculator - Let's calculate factorial of -1.0
+2021-03-13 11:25:03.982 [main] ERROR Calculator - Error : Given Number is negative so can't find factorial.
+2021-03-13 11:25:03.982 [main] INFO  Calculator - Result : NaN
+2021-03-13 11:25:03.988 [main] INFO  Calculator - Let's calculate factorial of 2.5
+2021-03-13 11:25:03.991 [main] ERROR Calculator - Error : Given Number is factional so can't find factorial.
+2021-03-13 11:25:03.992 [main] INFO  Calculator - Result : NaN
+2021-03-13 11:25:03.997 [main] INFO  Calculator - Let's calculate 2.0to the power 3.0
+2021-03-13 11:25:03.998 [main] INFO  Calculator - Result : 8.0
+2021-03-13 11:25:03.999 [main] INFO  Calculator - Let's calculate 3.0to the power 3.0
+2021-03-13 11:25:03.999 [main] INFO  Calculator - Result : 27.0
+2021-03-13 11:25:04.004 [main] INFO  Calculator - Let's calculate 2.0to the power 2.0
+2021-03-13 11:25:04.008 [main] INFO  Calculator - Result : 4.0
+2021-03-13 11:25:04.009 [main] INFO  Calculator - Let's calculate 3.0to the power 3.0
+2021-03-13 11:25:04.012 [main] INFO  Calculator - Result : 27.0
+2021-03-13 11:26:20.826 [main] INFO  Calculator - Let's calculate factorial of 3.0
+2021-03-13 11:26:20.829 [main] INFO  Calculator - Result : 6.0
+2021-03-13 11:26:20.830 [main] INFO  Calculator - Let's calculate factorial of 5.0
+2021-03-13 11:26:20.830 [main] INFO  Calculator - Result : 120.0
+2021-03-13 11:26:20.830 [main] INFO  Calculator - Let's calculate factorial of -5.0
+2021-03-13 11:26:20.831 [main] ERROR Calculator - Error : Given Number is negative so can't find factorial.
+2021-03-13 11:26:20.831 [main] INFO  Calculator - Result : NaN
+2021-03-13 11:26:20.833 [main] INFO  Calculator - Let's calculate square root of 9.0
+2021-03-13 11:26:20.833 [main] INFO  Calculator - Result : 3.0
+2021-03-13 11:26:20.834 [main] INFO  Calculator - Let's calculate square root of 16.0
+2021-03-13 11:26:20.834 [main] INFO  Calculator - Result : 4.0
+2021-03-13 11:26:20.835 [main] INFO  Calculator - Let's calculate square root of -10.0
+2021-03-13 11:26:20.835 [main] ERROR Calculator - Number should not be negative : Given Number is negative so can't find Square Root.
+2021-03-13 11:26:20.836 [main] INFO  Calculator - Result : NaN
+2021-03-13 11:26:20.837 [main] INFO  Calculator - Let's calculate natural log of 17.0
+2021-03-13 11:26:20.837 [main] INFO  Calculator - Result : 2.833213344056216
+2021-03-13 11:26:20.838 [main] INFO  Calculator - Let's calculate natural log of 6.0
+2021-03-13 11:26:20.838 [main] INFO  Calculator - Result : 1.791759469228055
+2021-03-13 11:26:20.839 [main] INFO  Calculator - Let's calculate natural log of 0.0
+2021-03-13 11:26:20.839 [main] ERROR Calculator - Number should be positive only : Number should be > 0
+2021-03-13 11:26:20.839 [main] INFO  Calculator - Result : NaN
+2021-03-13 11:26:20.840 [main] INFO  Calculator - Let's calculate square root of 18.0
+2021-03-13 11:26:20.840 [main] INFO  Calculator - Result : 4.242640687119285
+2021-03-13 11:26:20.841 [main] INFO  Calculator - Let's calculate square root of 32.0
+2021-03-13 11:26:20.841 [main] INFO  Calculator - Result : 5.656854249492381
+2021-03-13 11:26:20.841 [main] INFO  Calculator - Let's calculate square root of -16.0
+2021-03-13 11:26:20.842 [main] ERROR Calculator - Number should not be negative : Given Number is negative so can't find Square Root.
+2021-03-13 11:26:20.842 [main] INFO  Calculator - Result : NaN
+2021-03-13 11:26:20.843 [main] INFO  Calculator - Let's calculate natural log of 14.0
+2021-03-13 11:26:20.843 [main] INFO  Calculator - Result : 2.6390573296152584
+2021-03-13 11:26:20.844 [main] INFO  Calculator - Let's calculate natural log of 9.0
+2021-03-13 11:26:20.844 [main] INFO  Calculator - Result : 2.1972245773362196
+2021-03-13 11:26:20.844 [main] INFO  Calculator - Let's calculate natural log of 0.0
+2021-03-13 11:26:20.845 [main] ERROR Calculator - Number should be positive only : Number should be > 0
+2021-03-13 11:26:20.845 [main] INFO  Calculator - Result : NaN
+2021-03-13 11:26:20.846 [main] INFO  Calculator - Let's calculate factorial of 3.0
+2021-03-13 11:26:20.847 [main] INFO  Calculator - Result : 6.0
+2021-03-13 11:26:20.848 [main] INFO  Calculator - Let's calculate factorial of 5.0
+2021-03-13 11:26:20.848 [main] INFO  Calculator - Result : 120.0
+2021-03-13 11:26:20.848 [main] INFO  Calculator - Let's calculate factorial of -1.0
+2021-03-13 11:26:20.849 [main] ERROR Calculator - Error : Given Number is negative so can't find factorial.
+2021-03-13 11:26:20.849 [main] INFO  Calculator - Result : NaN
+2021-03-13 11:26:20.850 [main] INFO  Calculator - Let's calculate factorial of 2.5
+2021-03-13 11:26:20.850 [main] ERROR Calculator - Error : Given Number is factional so can't find factorial.
+2021-03-13 11:26:20.851 [main] INFO  Calculator - Result : NaN
+2021-03-13 11:26:20.852 [main] INFO  Calculator - Let's calculate 2.0to the power 3.0
+2021-03-13 11:26:20.852 [main] INFO  Calculator - Result : 8.0
+2021-03-13 11:26:20.853 [main] INFO  Calculator - Let's calculate 3.0to the power 3.0
+2021-03-13 11:26:20.853 [main] INFO  Calculator - Result : 27.0
+2021-03-13 11:26:20.854 [main] INFO  Calculator - Let's calculate 2.0to the power 2.0
+2021-03-13 11:26:20.854 [main] INFO  Calculator - Result : 4.0
+2021-03-13 11:26:20.855 [main] INFO  Calculator - Let's calculate 3.0to the power 3.0
+2021-03-13 11:26:20.855 [main] INFO  Calculator - Result : 27.0
